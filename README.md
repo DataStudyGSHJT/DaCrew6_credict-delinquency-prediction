@@ -1,5 +1,5 @@
 # DaCrew6_credict-delinquency-prediction
-## DaCrew6_credict-delinquency-prediction - 신용카드 사용자 연체 예측 💳 프로젝트
+## 신용카드 사용자 연체 예측 💳 프로젝트
 ✔️ [Stage1 : 문제 기반 실무 학습(PBL) 개요 - 신용카드 사용자 연체 예측 소개](https://dacon.io/competitions/official/236116/codeshare/8755)    
 ✔️ [Stage2 : 문제 및 모델링의 이해 - 신용카드 연체를 예측하기 위해 필요한 것](https://dacon.io/competitions/official/236116/codeshare/8756)    
 ✔️ [기초 EDA 및 분석 - WHAT 무엇이 연체 정도에 영향을 줄까?](https://dacon.io/competitions/official/236116/codeshare/8757)    
